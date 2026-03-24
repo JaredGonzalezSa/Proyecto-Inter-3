@@ -14,7 +14,7 @@
 | No | Nombre | Carné | Rol |
 |---|---|---|---|
 | 1 | Carlos Rolando Barrios Estrada | 202500432 | Coordinador |
-| 2 | Nombre integrante | 2025XXXXX | Investigador |
+| 2 | Carlos Alfonzo Jared González Sagastume | 202500177 | Investigador |
 | 3 | Nombre integrante | 2025XXXXX | Diseñador de material |
 
 
